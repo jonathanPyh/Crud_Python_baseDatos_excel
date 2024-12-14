@@ -1,5 +1,5 @@
 import pyodbc
-server='LAPTOP-C9U1MOE1\SQLEXPRESS'
+server='SQL SERVER'
 database = 'MiDatos'
 user ='sa'
 paswoord ='123456'
